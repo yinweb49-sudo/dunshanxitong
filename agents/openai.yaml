@@ -1,0 +1,4 @@
+interface:
+  display_name: "盾山系统 · 项目安防框架"
+  short_description: "开工布防、体检补防、功能安检、战时应急：四档防护 + 十四道盾 + 攻防对照 + 实战阈值 + 日志分诊与先备份再删除工具"
+  default_prompt: "Use $dunshanxitong to pick this project's protection tier, lay out or audit its security baseline (fourteen shields), map how attackers would hit it, apply its rules when building security-sensitive features, or run its incident playbook if we are under attack."
